@@ -1,16 +1,26 @@
-## Hi there 👋
+Ciao, mi chiamo Ernesto Campantico, e questo è il mio proflo GitHub, contiene alcuni dei progetti svolti da me durante il mio percorso di studi, mentre qui sotto racconto un po i miei interessi.
 
-<!--
-**Ernesto-png/Ernesto-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Studente di Informatica - Terzo Anno**  
+Dipartimento di Informatica (DIBRIS)  
+Università degli Studi di Genova  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Profilo Personale
+Sono uno studente appassionato di informatica, con un particolare interesse nello sviluppo di applicazioni web e una predilezione per il lavoro **frontend** sui siti. 
+Il mio obiettivo è crescere professionalmente nel settore dello sviluppo web, migliorando continuamente le mie competenze tecniche e creative.
+
+---
+
+## 💻 Competenze Tecniche
+### Linguaggi di Programmazione
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: PHP, C#, Java  
+- **Generale**: C++, Python, C  
+
+---
+
+## 🌟 Interessi
+- Sviluppo Frontend  
+- Progettazione di Applicazioni Web  
+- Esplorazione di nuove tecnologie e framework
